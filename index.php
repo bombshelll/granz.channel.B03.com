@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to Riegel Canyon</h1>
+        <h1>Welcome to Granz Channel</h1>
         <p><?php
             $hostname = gethostname();
             echo "Request ini dihandle oleh: $hostname<br>"; ?> </p>
